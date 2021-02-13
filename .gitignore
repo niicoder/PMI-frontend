@@ -1,0 +1,10 @@
+.idea
+.vs
+.vscode
+/ProviderDashboard/Properties/launchSettings.json
+ProviderDashboard/.yarnrc
+ProviderDashboard/nuget.config
+/node_modules
+/package-lock.json
+/.yarnrc
+/ProviderDashboard/libman.json
